@@ -6,7 +6,7 @@ A responsive weather dashboard built with **React.js + Vite** that displays real
 
 ## 🚀 Live Demo
 
-[View Live →](https://your-vercel-url.vercel.app) <!-- Replace with your Vercel URL -->
+[View Live →]https://weather-dashboard-three-amber.vercel.app<!-- Replace with your Vercel URL -->
 
 ---
 
@@ -118,6 +118,3 @@ Add `VITE_WEATHER_API_KEY` in **Vercel Dashboard → Settings → Environment Va
 
 ---
 
-## 📄 License
-
-MIT

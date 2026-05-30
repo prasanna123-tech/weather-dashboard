@@ -6,7 +6,7 @@ A responsive weather dashboard built with **React.js + Vite** that displays real
 
 ## 🚀 Live Demo
 
-View Live →https://weather-dashboard-h9xbryj22-saiprasannamusala-7118s-projects.vercel.app
+View Live →https://weather-dashboard-9vc3r3hgq-saiprasannamusala-7118s-projects.vercel.app
 
 ---
 
